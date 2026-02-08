@@ -1,6 +1,4 @@
-In the rapidly evolving world of finance and technology, investors are constantly seeking ways to make smarter decisions by combining traditional financial analysis with emerging technological insights. While stock market trends provide a numerical perspective on growth, an organization’s initiatives in cutting-edge fields like Artificial Intelligence (AI) reveal its future readiness and innovation potential.
-However, analyzing both dimensions - quantitative financial performance and qualitative AI initiatives - requires sifting through multiple, diverse data sources: stock data from platforms like Yahoo Finance, reports in PDFs, and contextual reasoning using Large Language Models (LLMs).
-
-This is where **DualLens Analytics** comes in. By applying a dual-lens approach, the project leverages **Retrieval-Augmented Generation (RAG)** to merge **financial growth data** with **strategic insights from organizational reports**. Stock data provides evidence of stability and momentum, while AI initiative documents reveal forward-looking innovation. Together, they form a richer, more holistic picture of organizational potential.
-
-With DualLens Analytics, investors no longer need to choose between numbers and narratives—they gain a unified, AI-driven perspective that ranks organizations by both financial strength and innovation readiness, enabling smarter, future-focused investment strategies.
+Hello, Welcome to my repo! This repository showcases Agentic AI projects built using LangChain, LangGraph, CrewAI, OpenAI, and Python.
+It focuses on practical implementations of single and multi-agent systems, RAG pipelines, and intelligent orchestration.
+All projects are provided as Jupyter notebooks for ease of use, experimentation, and reproducibility.
+Created to learn, iterate, and share insights with the AI developer community.
